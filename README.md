@@ -5,7 +5,7 @@
 To install Anaconda follow the instructions in the following webpage:  
 https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
 
-Create a conda environment for the PyBullet tutorial:  
+Create a conda environment:  
 ```
 $ conda create --name behaviour_clone  
 ```
